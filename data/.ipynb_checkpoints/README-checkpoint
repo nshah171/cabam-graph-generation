@@ -1,0 +1,4 @@
+`citeseer`, `cora`, `pubmed`, `cora_ml` and `dblp` obtained from https://github.com/abojchevski/graph2gauss.
+
+`flickr`, `blogcatalog`, `airport` are preprocessed assets from Tong Zhao (tzhao2@nd.edu).
+
